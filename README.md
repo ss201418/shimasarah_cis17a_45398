@@ -1,2 +1,2 @@
-# shimasarah_csc17a_45398
-Norco College - CSC-17A - C++ 
+# ShimaSarah_CSC-17A_45398
+Norco College C++ Summer 2021
